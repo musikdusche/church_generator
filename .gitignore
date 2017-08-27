@@ -1,0 +1,13 @@
+
+cmd_here.cmd
+
+
+*.bak
+output.png
+*.mkv
+template.png
+minitest.png
+minitest.pov
+minitest.php
+output.pov
+start_minitest.cmd
