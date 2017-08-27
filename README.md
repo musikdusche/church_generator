@@ -8,4 +8,4 @@ A rendered sample output looks like this:
 
 A video can be seen here:
 
-[gfycat video](https://gfycat.com/gifs/detail/TanRectangularAngwantibo)
+[gfycat video](https://gfycat.com/tanrectangularangwantibo)
